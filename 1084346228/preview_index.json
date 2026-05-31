@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1084346228",
-  "updated_at": "2026-04-23T15:52:38.214975",
+  "updated_at": "2026-05-31T13:50:53+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -26,12 +26,6 @@
       "file": "小梨-宅有什么错2.bdi",
       "thumb": "小梨-宅有什么错2.bdi_py_26_light_thumb.png",
       "full": "小梨-宅有什么错2.bdi_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "小梨-总是在睡觉融1.bdi",
-      "thumb": "小梨-总是在睡觉融1.bdi_py_26_light_thumb.png",
-      "full": "小梨-总是在睡觉融1.bdi_py_26_light.png"
     },
     {
       "name": "乐妍底包",
@@ -338,6 +332,12 @@
       "file": "小梨-小野纪一.bds",
       "thumb": "小梨-小野纪一.bds_py_26_light_thumb.png",
       "full": "小梨-小野纪一.bds_py_26_light.png"
+    },
+    {
+      "name": "小梨-总是在睡觉融1",
+      "file": "小梨-总是在睡觉融1.bdi",
+      "thumb": "小梨-总是在睡觉融1.bdi_py_26_light_thumb.png",
+      "full": "小梨-总是在睡觉融1.bdi_py_26_light_thumb.png"
     }
   ]
 }
