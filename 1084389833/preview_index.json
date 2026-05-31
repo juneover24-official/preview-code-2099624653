@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1084389833",
-  "updated_at": "2026-05-31T02:30:07+00:00",
+  "updated_at": "2026-05-31T02:31:18+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -152,6 +152,12 @@
       "file": "小梨-甜莓宅宅物融1.bdi",
       "thumb": "小梨-甜莓宅宅物融1.bdi_py_26_light_thumb.png",
       "full": "小梨-甜莓宅宅物融1.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-卖萌天赋融1",
+      "file": "小梨-卖萌天赋融1.bdi",
+      "thumb": "小梨-卖萌天赋融1.bdi_py_26_light_thumb.png",
+      "full": "小梨-卖萌天赋融1.bdi_py_26_light_thumb.png"
     }
   ]
 }
