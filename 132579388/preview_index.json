@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-01T02:09:06+00:00",
+  "updated_at": "2026-06-01T02:13:19+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -122,6 +122,12 @@
       "file": "小梨-如果真心可以返场3.bdi",
       "thumb": "小梨-如果真心可以返场3.bdi_py_26_light_thumb.png",
       "full": "小梨-如果真心可以返场3.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-如果真心可以返场融2",
+      "file": "小梨-如果真心可以返场融2.bdi",
+      "thumb": "小梨-如果真心可以返场融2.bdi_py_26_light_thumb.png",
+      "full": "小梨-如果真心可以返场融2.bdi_py_26_light_thumb.png"
     }
   ]
 }
