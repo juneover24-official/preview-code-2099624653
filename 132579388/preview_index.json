@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-03T08:35:08+00:00",
+  "updated_at": "2026-06-03T08:35:20+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -164,6 +164,12 @@
       "file": "小梨-濒死美学手記3.bdi",
       "thumb": "小梨-濒死美学手記3.bdi_py_26_light_thumb.png",
       "full": "小梨-濒死美学手記3.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-濒死美学手記二.bds",
+      "thumb": "小梨-濒死美学手記二.bds_py_26_light_thumb.png",
+      "full": "小梨-濒死美学手記二.bds_py_26_light_thumb.png"
     }
   ]
 }
