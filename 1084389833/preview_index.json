@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1084389833",
-  "updated_at": "2026-06-05T02:22:21+00:00",
+  "updated_at": "2026-06-05T02:47:26+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -272,6 +272,12 @@
       "file": "小梨-很笨轻拿轻放融3.bdi",
       "thumb": "小梨-很笨轻拿轻放融3.bdi_py_26_light_thumb.png",
       "full": "小梨-很笨轻拿轻放融3.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-伪命题",
+      "file": "小梨-伪命题.bdi",
+      "thumb": "小梨-伪命题.bdi_py_26_light_thumb.png",
+      "full": "小梨-伪命题.bdi_py_26_light_thumb.png"
     }
   ]
 }
