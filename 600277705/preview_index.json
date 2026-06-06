@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "600277705",
-  "updated_at": "2026-04-23T15:52:35.804539",
+  "updated_at": "2026-06-06T18:40:37+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -56,12 +56,6 @@
       "file": "小梨-你和初雪一起降临闷.bdi",
       "thumb": "小梨-你和初雪一起降临闷.bdi_py_26_light_thumb.png",
       "full": "小梨-你和初雪一起降临闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "小梨-这能吃不2.bdi",
-      "thumb": "小梨-这能吃不2.bdi_py_26_light_thumb.png",
-      "full": "小梨-这能吃不2.bdi_py_26_light.png"
     },
     {
       "name": "乐妍底包",
@@ -332,6 +326,12 @@
       "file": "小梨-世首萌ouri一.bds",
       "thumb": "小梨-世首萌ouri一.bds_py_26_light_thumb.png",
       "full": "小梨-世首萌ouri一.bds_py_26_light.png"
+    },
+    {
+      "name": "小梨-这能吃不2",
+      "file": "小梨-这能吃不2.bdi",
+      "thumb": "小梨-这能吃不2.bdi_py_26_light_thumb.png",
+      "full": "小梨-这能吃不2.bdi_py_26_light_thumb.png"
     }
   ]
 }
