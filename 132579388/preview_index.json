@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-06T07:23:15+00:00",
+  "updated_at": "2026-06-08T01:34:52+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -206,6 +206,12 @@
       "file": "harlequin.bdi",
       "thumb": "harlequin.bdi_py_26_light_thumb.png",
       "full": "harlequin.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "harlequin",
+      "file": "harlequin.bds",
+      "thumb": "harlequin.bds_py_26_light_thumb.png",
+      "full": "harlequin.bds_py_26_light_thumb.png"
     }
   ]
 }
