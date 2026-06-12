@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-12T12:22:05+00:00",
+  "updated_at": "2026-06-12T12:23:09+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -184,12 +184,6 @@
       "full": "小梨-濒死美学手記三.bds_py_26_light_thumb.png"
     },
     {
-      "name": "小梨-濒死美学手記融1",
-      "file": "小梨-濒死美学手記融1.bdi",
-      "thumb": "小梨-濒死美学手記融1.bdi_py_26_light_thumb.png",
-      "full": "小梨-濒死美学手記融1.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "小梨-ouo粉rh",
       "file": "小梨-ouo粉rh.bdi",
       "thumb": "小梨-ouo粉rh.bdi_py_26_light_thumb.png",
@@ -236,6 +230,12 @@
       "file": "harlequin.bds",
       "thumb": "harlequin.bds_py_26_light_thumb.png",
       "full": "harlequin.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-濒死美学手記融1",
+      "file": "小梨-濒死美学手記融1.bdi",
+      "thumb": "小梨-濒死美学手記融1.bdi_py_26_light_thumb.png",
+      "full": "小梨-濒死美学手記融1.bdi_py_26_light_thumb.png"
     }
   ]
 }
