@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-12T12:06:28+00:00",
+  "updated_at": "2026-06-12T12:06:42+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -220,16 +220,16 @@
       "full": "小梨-单纯公主心情一.bds_py_26_light_thumb.png"
     },
     {
-      "name": "小梨-单纯公主心情融2",
-      "file": "小梨-单纯公主心情融2.bdi",
-      "thumb": "小梨-单纯公主心情融2.bdi_py_26_light_thumb.png",
-      "full": "小梨-单纯公主心情融2.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "小梨-单纯公主心情融1",
       "file": "小梨-单纯公主心情融1.bdi",
       "thumb": "小梨-单纯公主心情融1.bdi_py_26_light_thumb.png",
       "full": "小梨-单纯公主心情融1.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-单纯公主心情融2",
+      "file": "小梨-单纯公主心情融2.bdi",
+      "thumb": "小梨-单纯公主心情融2.bdi_py_26_light_thumb.png",
+      "full": "小梨-单纯公主心情融2.bdi_py_26_light_thumb.png"
     }
   ]
 }
