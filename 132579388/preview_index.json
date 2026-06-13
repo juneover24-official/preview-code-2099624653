@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-13T00:18:18+00:00",
+  "updated_at": "2026-06-13T10:08:49+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -260,6 +260,12 @@
       "file": "小梨-单纯公主心情三.bds",
       "thumb": "小梨-单纯公主心情三.bds_py_26_light_thumb.png",
       "full": "小梨-单纯公主心情三.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-大人不记小猫糕一.bds",
+      "thumb": "小梨-大人不记小猫糕一.bds_py_26_light_thumb.png",
+      "full": "小梨-大人不记小猫糕一.bds_py_26_light_thumb.png"
     }
   ]
 }
