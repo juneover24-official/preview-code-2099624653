@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-18T11:01:04+00:00",
+  "updated_at": "2026-06-18T11:41:04+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -314,6 +314,12 @@
       "file": "小梨-不爱我拉岛融2.bdi",
       "thumb": "小梨-不爱我拉岛融2.bdi_py_26_light_thumb.png",
       "full": "小梨-不爱我拉岛融2.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-不爱我拉岛3",
+      "file": "小梨-不爱我拉岛3.bdi",
+      "thumb": "小梨-不爱我拉岛3.bdi_py_26_light_thumb.png",
+      "full": "小梨-不爱我拉岛3.bdi_py_26_light_thumb.png"
     }
   ]
 }
