@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-06-26T13:32:05+00:00",
+  "updated_at": "2026-06-26T22:22:44+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -382,12 +382,6 @@
       "full": "小梨-关于奇怪的你4.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "小梨-关于奇怪的你融2",
-      "file": "小梨-关于奇怪的你融2.bdi",
-      "thumb": "小梨-关于奇怪的你融2.bdi_py_26_light_thumb.png",
-      "full": "小梨-关于奇怪的你融2.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "小梨-关于奇怪的你3",
       "file": "小梨-关于奇怪的你3.bdi",
       "thumb": "小梨-关于奇怪的你3.bdi_py_26_light_thumb.png",
@@ -404,6 +398,12 @@
       "file": "小梨-关于奇怪的你一.bds",
       "thumb": "小梨-关于奇怪的你一.bds_py_26_light_thumb.png",
       "full": "小梨-关于奇怪的你一.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "小梨-关于奇怪的你融2",
+      "file": "小梨-关于奇怪的你融2.bdi",
+      "thumb": "小梨-关于奇怪的你融2.bdi_py_26_light_thumb.png",
+      "full": "小梨-关于奇怪的你融2.bdi_py_26_light_thumb.png"
     }
   ]
 }
