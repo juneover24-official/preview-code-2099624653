@@ -1,13 +1,19 @@
 {
   "qq_number": "2099624653",
   "group_number": "1043126278",
+  "updated_at": "2026-07-04T04:43:38+00:00",
   "skins": [
     {
       "name": "乐妍底包",
       "file": "小梨-波点日記一.bds",
       "thumb": "小梨-波点日記一.bds_py_26_light_thumb.png",
       "full": "小梨-波点日記一.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-波点日記二.bds",
+      "thumb": "小梨-波点日記二.bds_py_26_light_thumb.png",
+      "full": "小梨-波点日記二.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-04T04:43:27+00:00"
+  ]
 }
