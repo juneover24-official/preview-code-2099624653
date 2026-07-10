@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-07-10T19:03:10+00:00",
+  "updated_at": "2026-07-10T19:03:53+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -274,12 +274,6 @@
       "full": "小梨-大人不记小猫糕二.bds_py_26_light_thumb.png"
     },
     {
-      "name": "小梨-大人不记小猫糕rh",
-      "file": "小梨-大人不记小猫糕rh.bdi",
-      "thumb": "小梨-大人不记小猫糕rh.bdi_py_26_light_thumb.png",
-      "full": "小梨-大人不记小猫糕rh.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "小梨-大人不记小猫糕彩",
       "file": "小梨-大人不记小猫糕彩.bdi",
       "thumb": "小梨-大人不记小猫糕彩.bdi_py_26_light_thumb.png",
@@ -452,6 +446,12 @@
       "file": "小梨-综上所述你是笨蛋融1.bdi",
       "thumb": "小梨-综上所述你是笨蛋融1.bdi_py_26_light_thumb.png",
       "full": "小梨-综上所述你是笨蛋融1.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-大人不记小猫糕rh.bdi",
+      "thumb": "小梨-大人不记小猫糕rh.bdi_py_26_light_thumb.png",
+      "full": "小梨-大人不记小猫糕rh.bdi_py_26_light_thumb.png"
     }
   ]
 }
