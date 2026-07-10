@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "132579388",
-  "updated_at": "2026-07-10T19:02:02+00:00",
+  "updated_at": "2026-07-10T19:02:27+00:00",
   "skins": [
     {
       "name": "小梨-只对你坏融2",
@@ -407,12 +407,6 @@
     },
     {
       "name": "名字不建议加多余的符号",
-      "file": "小梨-综上所述你是笨蛋3.bdi",
-      "thumb": "小梨-综上所述你是笨蛋3.bdi_py_26_light_thumb.png",
-      "full": "小梨-综上所述你是笨蛋3.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "名字不建议加多余的符号",
       "file": "小梨-综上所述你是笨蛋融1.bdi",
       "thumb": "小梨-综上所述你是笨蛋融1.bdi_py_26_light_thumb.png",
       "full": "小梨-综上所述你是笨蛋融1.bdi_py_26_light_thumb.png"
@@ -452,6 +446,12 @@
       "file": "小梨-综上所述你是笨蛋4.bdi",
       "thumb": "小梨-综上所述你是笨蛋4.bdi_py_26_light_thumb.png",
       "full": "小梨-综上所述你是笨蛋4.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "小梨-综上所述你是笨蛋3.bdi",
+      "thumb": "小梨-综上所述你是笨蛋3.bdi_py_26_light_thumb.png",
+      "full": "小梨-综上所述你是笨蛋3.bdi_py_26_light_thumb.png"
     }
   ]
 }
