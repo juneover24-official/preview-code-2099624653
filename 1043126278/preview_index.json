@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1043126278",
-  "updated_at": "2026-07-13T02:30:03+00:00",
+  "updated_at": "2026-07-13T02:30:29+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -110,6 +110,12 @@
       "file": "小梨-请触摸我的静默二.bds",
       "thumb": "小梨-请触摸我的静默二.bds_py_26_light_thumb.png",
       "full": "小梨-请触摸我的静默二.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "小梨-请触摸我的静默三.bds",
+      "thumb": "小梨-请触摸我的静默三.bds_py_26_light_thumb.png",
+      "full": "小梨-请触摸我的静默三.bds_py_26_light_thumb.png"
     }
   ]
 }
