@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1043126278",
-  "updated_at": "2026-07-20T03:02:09+00:00",
+  "updated_at": "2026-07-20T03:02:40+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -161,12 +161,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "小梨-以天使の名义4.bdi",
-      "thumb": "小梨-以天使の名义4.bdi_py_26_light_thumb.png",
-      "full": "小梨-以天使の名义4.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "乐妍底包",
       "file": "小梨-以天使の名义3.bdi",
       "thumb": "小梨-以天使の名义3.bdi_py_26_light_thumb.png",
       "full": "小梨-以天使の名义3.bdi_py_26_light_thumb.png"
@@ -200,6 +194,12 @@
       "file": "小梨-以天使の名义一.bds",
       "thumb": "小梨-以天使の名义一.bds_py_26_light_thumb.png",
       "full": "小梨-以天使の名义一.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-以天使の名义4.bdi",
+      "thumb": "小梨-以天使の名义4.bdi_py_26_light_thumb.png",
+      "full": "小梨-以天使の名义4.bdi_py_26_light_thumb.png"
     }
   ]
 }
