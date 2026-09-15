@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-15T21:35:08+00:00",
+  "updated_at": "2026-09-15T21:35:44+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -121,6 +121,13 @@
       "thumb": "小梨-荒誕的夢境三.bds_py_26_light_thumb.png",
       "full": "小梨-荒誕的夢境三.bds_py_26_light_thumb.png",
       "file_id": "0dcb10cb63a6f28ed739815ed40871a2"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-荒誕的夢境四.bds",
+      "thumb": "小梨-荒誕的夢境四.bds_py_26_light_thumb.png",
+      "full": "小梨-荒誕的夢境四.bds_py_26_light_thumb.png",
+      "file_id": "882b03512913ff1f63600b86c4629756"
     }
   ]
 }
