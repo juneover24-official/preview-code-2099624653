@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-15T06:22:34+00:00",
+  "updated_at": "2026-09-15T14:18:21+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -79,6 +79,13 @@
       "thumb": "小梨-请把我放在盐里融2.bdi_py_26_light_thumb.png",
       "full": "小梨-请把我放在盐里融2.bdi_py_26_light_thumb.png",
       "file_id": "e9aa2fbe2c0a9ab0abaf9d23a04decae"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-请把我放在盐里融1.bdi",
+      "thumb": "小梨-请把我放在盐里融1.bdi_py_26_light_thumb.png",
+      "full": "小梨-请把我放在盐里融1.bdi_py_26_light_thumb.png",
+      "file_id": "bfad98bb68e32af1015bf302badaac3f"
     }
   ]
 }
