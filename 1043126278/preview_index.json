@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1043126278",
-  "updated_at": "2026-09-15T03:10:32+00:00",
+  "updated_at": "2026-09-15T03:11:33+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -279,6 +279,13 @@
       "thumb": "小梨-熊熊大王驾到3.bdi_py_26_light_thumb.png",
       "full": "小梨-熊熊大王驾到3.bdi_py_26_light_thumb.png",
       "file_id": "7d644ca1cf8de195d2c4bb34ccf5e337"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-甜惡双子融1.bdi",
+      "thumb": "小梨-甜惡双子融1.bdi_py_26_light_thumb.png",
+      "full": "小梨-甜惡双子融1.bdi_py_26_light_thumb.png",
+      "file_id": "ac7a181d13aa66e511c53e1e060108ad"
     }
   ]
 }
