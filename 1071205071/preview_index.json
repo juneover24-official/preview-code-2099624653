@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-20T03:16:42+00:00",
+  "updated_at": "2026-09-20T03:17:13+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -177,6 +177,13 @@
       "thumb": "小梨-人请投喂熊1-无背景.bdi_py_26_light_thumb.png",
       "full": "小梨-人请投喂熊1-无背景.bdi_py_26_light_thumb.png",
       "file_id": "fef01b67268b20ed77633db9691f511b"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-人请投喂熊4-无背景.bdi",
+      "thumb": "小梨-人请投喂熊4-无背景.bdi_py_26_light_thumb.png",
+      "full": "小梨-人请投喂熊4-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "6e683dc14162306282607d30b928ae3e"
     }
   ]
 }
