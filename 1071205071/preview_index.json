@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-20T12:55:00+00:00",
+  "updated_at": "2026-09-20T12:55:21+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -240,6 +240,13 @@
       "thumb": "小梨-你我怎么两清.bdi_py_26_light_thumb.png",
       "full": "小梨-你我怎么两清.bdi_py_26_light_thumb.png",
       "file_id": "6e76f3a371c98ce7a54df6414bbaa0e2"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-你我怎么两清.bds",
+      "thumb": "小梨-你我怎么两清.bds_py_26_light_thumb.png",
+      "full": "小梨-你我怎么两清.bds_py_26_light_thumb.png",
+      "file_id": "d0a5244eb557c7636a3e22f436d26237"
     }
   ]
 }
