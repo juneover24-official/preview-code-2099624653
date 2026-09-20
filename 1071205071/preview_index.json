@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-20T13:04:16+00:00",
+  "updated_at": "2026-09-20T13:04:53+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -289,6 +289,13 @@
       "thumb": "小梨-不要烤焦我的饼干-无字版.bdi_py_26_light_thumb.png",
       "full": "小梨-不要烤焦我的饼干-无字版.bdi_py_26_light_thumb.png",
       "file_id": "0935e2755db18e292ea21461b3323655"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-不要烤焦我的饼干-无字版.bds",
+      "thumb": "小梨-不要烤焦我的饼干-无字版.bds_py_26_light_thumb.png",
+      "full": "小梨-不要烤焦我的饼干-无字版.bds_py_26_light_thumb.png",
+      "file_id": "078015e55d81ddbcfda2af0d78ba5e44"
     }
   ]
 }
