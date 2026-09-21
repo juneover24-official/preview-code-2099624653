@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-21T02:58:53+00:00",
+  "updated_at": "2026-09-21T03:01:53+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -401,6 +401,13 @@
       "thumb": "小梨-第七十一章4-无背景.bdi_py_26_light_thumb.png",
       "full": "小梨-第七十一章4-无背景.bdi_py_26_light_thumb.png",
       "file_id": "51fa9e7485be965f35818a311a448fcb"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-第七十一章融1.bdi",
+      "thumb": "小梨-第七十一章融1.bdi_py_26_light_thumb.png",
+      "full": "小梨-第七十一章融1.bdi_py_26_light_thumb.png",
+      "file_id": "fb0961d85e328e64cb6bf7498eecfdd4"
     }
   ]
 }
