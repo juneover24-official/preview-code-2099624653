@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-09-27T08:53:52+00:00",
+  "updated_at": "2026-09-29T06:27:09+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -492,6 +492,13 @@
       "thumb": "克劳德2-添加融合底.bdi_py_26_light_thumb.png",
       "full": "克劳德2-添加融合底.bdi_py_26_light_thumb.png",
       "file_id": "77d00ef6c422bb6d62f666e0a7936b4b"
+    },
+    {
+      "name": "克劳德",
+      "file": "克劳德2-添加融合底-无背景.bdi",
+      "thumb": "克劳德2-添加融合底-无背景.bdi_py_26_light_thumb.png",
+      "full": "克劳德2-添加融合底-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "ca5c1b8c3512c3378e880ff19ed45a51"
     }
   ]
 }
