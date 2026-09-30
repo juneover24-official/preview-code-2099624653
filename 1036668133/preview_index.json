@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1036668133",
-  "updated_at": "2026-09-30T00:12:15+00:00",
+  "updated_at": "2026-09-30T00:12:20+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -50,6 +50,12 @@
       "file": "小梨-白鳥千唯三.bds",
       "thumb": "小梨-白鳥千唯三.bds_py_26_light_thumb.png",
       "full": "小梨-白鳥千唯三.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-白鳥千唯融2.bdi",
+      "thumb": "小梨-白鳥千唯融2.bdi_py_26_light_thumb.png",
+      "full": "小梨-白鳥千唯融2.bdi_py_26_light_thumb.png"
     }
   ]
 }
