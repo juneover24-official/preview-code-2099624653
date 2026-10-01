@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1071205071",
-  "updated_at": "2026-10-01T04:22:49+00:00",
+  "updated_at": "2026-10-01T04:23:07+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -544,17 +544,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "小梨-古董天使3.bdi",
-      "thumb": "小梨-古董天使3.bdi_py_26_light_thumb.png",
-      "full": "小梨-古董天使3.bdi_py_26_light_thumb.png",
-      "file_id": "3d4c29a9ba590df786aaa62390efd8ab"
-    },
-    {
-      "name": "乐妍底包",
       "file": "小梨-古董天使4.bdi",
       "thumb": "小梨-古董天使4.bdi_py_26_light_thumb.png",
       "full": "小梨-古董天使4.bdi_py_26_light_thumb.png",
       "file_id": "114b124956a94502873ecdd05588dffd"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-古董天使3.bdi",
+      "thumb": "小梨-古董天使3.bdi_py_26_light_thumb.png",
+      "full": "小梨-古董天使3.bdi_py_26_light_thumb.png",
+      "file_id": "3d4c29a9ba590df786aaa62390efd8ab"
     }
   ]
 }
