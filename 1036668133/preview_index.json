@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1036668133",
-  "updated_at": "2026-10-28T09:45:31+00:00",
+  "updated_at": "2026-10-28T10:35:48+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -165,6 +165,13 @@
       "thumb": "小梨-如果一定要忧伤一.bds_py_26_light_thumb.png",
       "full": "小梨-如果一定要忧伤一.bds_py_26_light_thumb.png",
       "file_id": "da1782ef833de5dd613ca3a787af10f8"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-坏点又没错二.bds",
+      "thumb": "小梨-坏点又没错二.bds_py_26_light_thumb.png",
+      "full": "小梨-坏点又没错二.bds_py_26_light_thumb.png",
+      "file_id": "b6b817cbfdbb094b0d6e5e679c3c7431"
     }
   ]
 }
