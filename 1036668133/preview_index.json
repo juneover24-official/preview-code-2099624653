@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1036668133",
-  "updated_at": "2026-11-04T09:21:35+00:00",
+  "updated_at": "2026-11-04T10:27:34+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -305,6 +305,13 @@
       "thumb": "小梨-请依赖我吧一.bds_py_26_light_thumb.png",
       "full": "小梨-请依赖我吧一.bds_py_26_light_thumb.png",
       "file_id": "005e1077411af33c7f2fe60fd3886b30"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-潮汐病例四.bds",
+      "thumb": "小梨-潮汐病例四.bds_py_26_light_thumb.png",
+      "full": "小梨-潮汐病例四.bds_py_26_light_thumb.png",
+      "file_id": "24df0d9038bcb8f6831804ea7227615b"
     }
   ]
 }
