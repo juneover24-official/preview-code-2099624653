@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1036668133",
-  "updated_at": "2026-11-12T13:33:20+00:00",
+  "updated_at": "2026-11-15T09:20:12+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -382,6 +382,13 @@
       "thumb": "樱兰高校无动销.bdi_py_26_light_thumb.png",
       "full": "樱兰高校无动销.bdi_py_26_light_thumb.png",
       "file_id": "6d7779489fce1f74af586dc054ab0da8"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-和世萌一说晚安一.bds",
+      "thumb": "小梨-和世萌一说晚安一.bds_py_26_light_thumb.png",
+      "full": "小梨-和世萌一说晚安一.bds_py_26_light_thumb.png",
+      "file_id": "b4f975a2da9e4779440b2a5da8d521a8"
     }
   ]
 }
