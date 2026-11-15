@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1132794958",
-  "updated_at": "2026-11-15T06:02:08+00:00",
+  "updated_at": "2026-11-15T07:33:06+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -44,6 +44,13 @@
       "thumb": "小梨-回甘痛融2_适配27.bdi_py_26_light_thumb.png",
       "full": "小梨-回甘痛融2_适配27.bdi_py_26_light_thumb.png",
       "file_id": "24c246bd43554ccbd9d59cb66b5632d8"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-回甘痛4.bdi",
+      "thumb": "小梨-回甘痛4.bdi_py_26_light_thumb.png",
+      "full": "小梨-回甘痛4.bdi_py_26_light_thumb.png",
+      "file_id": "b4eab9f964f81362a538bb32c9ba56a3"
     }
   ]
 }
