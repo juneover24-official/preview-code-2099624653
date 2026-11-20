@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1132794958",
-  "updated_at": "2026-11-20T11:32:53+00:00",
+  "updated_at": "2026-11-20T11:33:49+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -236,17 +236,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "小梨-淡水世纪盲二.bds",
-      "thumb": "小梨-淡水世纪盲二.bds_py_26_light_thumb.png",
-      "full": "小梨-淡水世纪盲二.bds_py_26_light_thumb.png",
-      "file_id": "53daeb4c8a3e6c260adebffd245cfa4c"
-    },
-    {
-      "name": "乐妍底包",
       "file": "小梨-淡水世纪盲一.bds",
       "thumb": "小梨-淡水世纪盲一.bds_py_26_light_thumb.png",
       "full": "小梨-淡水世纪盲一.bds_py_26_light_thumb.png",
       "file_id": "fe7a562348c2d754cea79d0eb90e5aae"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-淡水世纪盲二.bds",
+      "thumb": "小梨-淡水世纪盲二.bds_py_26_light_thumb.png",
+      "full": "小梨-淡水世纪盲二.bds_py_26_light_thumb.png",
+      "file_id": "53daeb4c8a3e6c260adebffd245cfa4c"
     }
   ]
 }
