@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1036668133",
-  "updated_at": "2026-11-16T09:57:24+00:00",
+  "updated_at": "2026-11-24T12:23:59+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -466,6 +466,13 @@
       "thumb": "小梨-旧浘树子三.bds_py_26_light_thumb.png",
       "full": "小梨-旧浘树子三.bds_py_26_light_thumb.png",
       "file_id": "ed31d61ad5e648a63df2514995483a94"
+    },
+    {
+      "name": "樱兰高校无动销",
+      "file": "樱兰高校无动销无背景.bdi",
+      "thumb": "樱兰高校无动销无背景.bdi_py_26_light_thumb.png",
+      "full": "樱兰高校无动销无背景.bdi_py_26_light_thumb.png",
+      "file_id": "fd29f1b5fa19567afc50ab3375511f84"
     }
   ]
 }
