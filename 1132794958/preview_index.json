@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1132794958",
-  "updated_at": "2026-11-26T04:28:40+00:00",
+  "updated_at": "2026-11-26T04:29:19+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -296,6 +296,13 @@
       "thumb": "小梨-任性戾气一.bds_py_26_light_thumb.png",
       "full": "小梨-任性戾气一.bds_py_26_light_thumb.png",
       "file_id": "0aef9d3b2c60e5b40ec23c060e2a1a4a"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-任性戾气二.bds",
+      "thumb": "小梨-任性戾气二.bds_py_26_light_thumb.png",
+      "full": "小梨-任性戾气二.bds_py_26_light_thumb.png",
+      "file_id": "93f67f7189a7243ad6f2f770bd1edfee"
     }
   ]
 }
