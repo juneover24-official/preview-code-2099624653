@@ -1,7 +1,7 @@
 {
   "qq_number": "2099624653",
   "group_number": "1132794958",
-  "updated_at": "2026-11-26T04:50:08+00:00",
+  "updated_at": "2026-11-26T05:44:30+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -250,13 +250,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "小梨-任性戾气4.bdi",
-      "thumb": "小梨-任性戾气4.bdi_py_26_light_thumb.png",
-      "full": "小梨-任性戾气4.bdi_py_26_light_thumb.png",
-      "file_id": "6bc16b9ab81faacc7a4c2a6a4484181a"
-    },
-    {
-      "name": "乐妍底包",
       "file": "小梨-任性戾气3.bdi",
       "thumb": "小梨-任性戾气3.bdi_py_26_light_thumb.png",
       "full": "小梨-任性戾气3.bdi_py_26_light_thumb.png",
@@ -317,6 +310,13 @@
       "thumb": "小梨-任性戾气四.bds_py_26_light_thumb.png",
       "full": "小梨-任性戾气四.bds_py_26_light_thumb.png",
       "file_id": "5e7177e73bb15cc0b2dffdc4692824c0"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小梨-任性戾气4.bdi",
+      "thumb": "小梨-任性戾气4.bdi_py_26_light_thumb.png",
+      "full": "小梨-任性戾气4.bdi_py_26_light_thumb.png",
+      "file_id": "6bc16b9ab81faacc7a4c2a6a4484181a"
     }
   ]
 }
